@@ -23,3 +23,7 @@ function woodRuirements(chairItem, tableItem, bedItem){
 
 const woodRuirementsItems= woodRuirements(3, 3, 10);
 console.log(woodRuirementsItems);
+
+
+
+sdifsbawv
